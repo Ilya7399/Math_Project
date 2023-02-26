@@ -9,3 +9,4 @@ D:\C#\Project\Tab1\bin\Debug\Tab1.exe
 D:\C#\Project\Tab1\bin\Debug\Tab1.pdb
 D:\C#\Project\Tab1\obj\Debug\Tab1.exe
 D:\C#\Project\Tab1\obj\Debug\Tab1.pdb
+D:\C#\Project\Tab1\obj\Debug\Tab1.Form2.resources
